@@ -1,0 +1,86 @@
+📊 Analisis Statistik Kemiskinan Jawa Tengah Tahun 2023
+Deskripsi Project:
+Project ini merupakan analisis statistik tingkat kemiskinan pada kabupaten/kota di Jawa Tengah tahun 2023. Data yang digunakan berasal dari Badan Pusat Statistik (BPS) Jawa Tengah dan diolah menggunakan Microsoft Excel.
+Analisis ini bertujuan untuk memahami kondisi kemiskinan antar wilayah, membandingkan persentase penduduk miskin, serta mengidentifikasi daerah dengan tingkat kemiskinan tertinggi dan terendah di Jawa Tengah.
+
+Tujuan Analisis:
+Mengetahui kondisi tingkat kemiskinan di Jawa Tengah tahun 2023
+Membandingkan persentase kemiskinan antar kabupaten/kota
+Mengidentifikasi daerah dengan tingkat kemiskinan tertinggi dan terendah
+Menyajikan data dalam bentuk tabel dan visualisasi grafik
+Menginterpretasikan hasil analisis statistik secara sederhana dan informatif
+
+Sumber Data:
+Sumber: Badan Pusat Statistik (BPS) Jawa Tengah Tahun 2023
+
+Data yang digunakan mencakup:
+Kabupaten/Kota
+Jumlah penduduk miskin
+Persentase kemiskinan
+Ranking tingkat kemiskinan daerah
+Nilai rata-rata kemiskinan
+Daerah dengan nilai tertinggi dan terendah
+
+Tools yang Digunakan:
+Microsoft Excel
+Statistik Deskriptif
+Data Visualization
+
+Metode Analisis
+Metode analisis yang digunakan dalam project ini meliputi:
+Statistik deskriptif
+Analisis persentase kemiskinan
+Perbandingan tingkat kemiskinan antar wilayah
+Penyusunan ranking daerah
+Visualisasi data menggunakan grafik
+Interpretasi hasil analisis
+Tahapan Pengolahan Data
+Menginput data ke Microsoft Excel
+Menyusun tabel data kemiskinan kabupaten/kota
+Mengolah dan membandingkan persentase kemiskinan
+Menentukan daerah dengan nilai tertinggi dan terendah
+Membuat grafik visualisasi data
+Menafsirkan hasil analisis
+
+Hasil Analisis:
+Berdasarkan hasil pengolahan data, rata-rata tingkat kemiskinan di Jawa Tengah tahun 2023 adalah 10,40%.
+
+# Daerah dengan Tingkat Kemiskinan Tertinggi
+Peringkat	Kabupaten/Kota	Persentase Kemiskinan
+1	Kabupaten Kebumen	16,34%
+2	Kabupaten Brebes	15,78%
+3	Kabupaten Wonosobo	15,58%
+4	Kabupaten Pemalang	15,03%
+5	Kabupaten Purbalingga	14,99%
+
+# Daerah dengan Tingkat Kemiskinan Terendah
+Peringkat	Kabupaten/Kota	Persentase Kemiskinan
+1	Kota Semarang	4,23%
+2	Kota Salatiga	4,66%
+3	Kota Magelang	6,11%
+4	Kabupaten Jepara	6,61%
+5	Kabupaten Pekalongan	6,81%
+Hasil tersebut menunjukkan adanya perbedaan tingkat kemiskinan yang cukup jelas antar wilayah di Jawa Tengah. Kabupaten Kebumen memiliki tingkat kemiskinan tertinggi, sedangkan Kota Semarang memiliki tingkat kemiskinan terendah.
+
+Visualisasi Data
+Visualisasi yang disajikan dalam project ini meliputi:
+Grafik 5 kabupaten/kota dengan tingkat kemiskinan tertinggi
+Grafik 5 kabupaten/kota dengan tingkat kemiskinan terendah
+Perbandingan persentase kemiskinan antar wilayah
+Visualisasi tersebut membantu menyampaikan hasil analisis secara lebih mudah dipahami dan informatif.
+
+Kesimpulan:
+Tingkat kemiskinan di kabupaten/kota Jawa Tengah tahun 2023 menunjukkan adanya variasi yang cukup signifikan antar wilayah. Dengan rata-rata kemiskinan sebesar 10,40%, Kabupaten Kebumen tercatat sebagai wilayah dengan tingkat kemiskinan tertinggi, sedangkan Kota Semarang menjadi wilayah dengan tingkat kemiskinan terendah.
+Analisis ini menunjukkan bahwa pemerataan kesejahteraan dan pembangunan ekonomi masih menjadi tantangan penting di beberapa wilayah Jawa Tengah.
+
+Skill yang Dipelajari
+Melalui project ini, saya mengembangkan kemampuan dalam:
+Data Analysis
+Statistik Deskriptif
+Pengolahan Data menggunakan Microsoft Excel
+Data Visualization
+Interpretasi Data Statistik
+Analisis Data Sosial Ekonomi
+
+Author:
+Oktaviani Eka Putri
